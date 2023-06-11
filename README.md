@@ -3,9 +3,7 @@
 This SQL project uses joining techniques to explore data on the world's oldest businesses: when were they founded, and which industries do they belong to?
 
 
-## 1. The oldest business in the world
-![Red heart made out of binary digits](Img/St._Peter_Stiftskeller.jpg)
-<p><em>Image: St. Peter Stiftskeller, founded 803. Credit: <a href="https://commons.wikimedia.org/wiki/File:Eingang_zum_St._Peter_Stiftskeller.jpg">Pakeha</a>.</em></p>
+
 <p>An important part of business is planning for the future and ensuring that the company survives changing market conditions. Some businesses do this really well and last for hundreds of years.</p>
 <p>BusinessFinancing.co.uk <a href="https://businessfinancing.co.uk/the-oldest-company-in-almost-every-country">researched</a> the oldest company that is still in business in (almost) every country and compiled the results into a dataset. In this project, I'll explore that dataset to see what they found.</p>
 <p>The database contains three tables.</p>
@@ -90,6 +88,9 @@ This SQL project uses joining techniques to explore data on the world's oldest b
 </tr>
 </tbody>
 </table>
+
+## 1. The oldest business in the world
+
 <p>Let's begin by looking at the range of the founding years throughout the world.</p>
 
 
