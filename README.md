@@ -1,12 +1,18 @@
-# What and Where are the World's Oldest Businesses
+# What and Where are the World's Oldest Businesses ?????
+
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) 
+
+</br>
+
+## Problem Statement :
 
 This SQL project uses joining techniques to explore data on the world's oldest businesses: when were they founded, and which industries do they belong to?
-
-
-
 <p>An important part of business is planning for the future and ensuring that the company survives changing market conditions. Some businesses do this really well and last for hundreds of years.</p>
 <p>BusinessFinancing.co.uk <a href="https://businessfinancing.co.uk/the-oldest-company-in-almost-every-country">researched</a> the oldest company that is still in business in (almost) every country and compiled the results into a dataset. In this project, I'll explore that dataset to see what they found.</p>
-<p>The database contains three tables.</p>
+</br>
+
+## Tables :
+
 <h3 id="categories"><code>categories</code></h3>
 <table>
 <thead>
@@ -88,6 +94,11 @@ This SQL project uses joining techniques to explore data on the world's oldest b
 </tr>
 </tbody>
 </table>
+
+</br>
+
+## Analysis :
+</br>
 
 ## 1. The oldest business in the world
 
